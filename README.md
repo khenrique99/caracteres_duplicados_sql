@@ -1,2 +1,5 @@
-# database_duplicada
-Código sql para saber as informações duplicadas em uma tabela.
+# Duplicidade Mysql
+
+##### Exemplos para saber alguma informação duplicada MySql!
+
+<img src="https://pplware.sapo.pt/wp-content/uploads/2016/01/mysql_000.jpg" width="50%" height="50%">
